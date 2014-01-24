@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="751" delta="unknown" >"E:/PESIT/Final year project/AsynARM/register_bank.v" Line 30: Redeclaration of ansi port <arg fmt="%s" index="1">data_out</arg> is not allowed
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="31" delta="unknown" >"E:/PESIT/Final year project/AsynARM/register_bank.v" Line 30: &lt;<arg fmt="%s" index="1">data_out</arg>&gt; is already declared.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="770" delta="unknown" >"E:/PESIT/Final year project/AsynARM/register_bank.v" Line 30: Second declaration of <arg fmt="%s" index="1">data_out</arg> ignored
+</msg>
+
+</messages>
+

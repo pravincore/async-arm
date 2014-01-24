@@ -1,0 +1,3 @@
+verilog work "issuer.v"
+verilog work "issuer_test.v"
+verilog work "C:/Xilinx/14.2/ISE_DS/ISE//verilog/src/glbl.v"

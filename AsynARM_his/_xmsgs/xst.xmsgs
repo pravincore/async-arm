@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="HDLCompiler" num="806" delta="new" >"E:\PESIT\Final year project\AsynARM\alu.v" Line 199: Syntax error near &quot;<arg fmt="%s" index="1">=</arg>&quot;.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="806" delta="new" >"E:\PESIT\Final year project\AsynARM\alu.v" Line 201: Syntax error near &quot;<arg fmt="%s" index="1">=</arg>&quot;.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="806" delta="new" >"E:\PESIT\Final year project\AsynARM\alu.v" Line 207: Syntax error near &quot;<arg fmt="%s" index="1">=</arg>&quot;.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="806" delta="new" >"E:\PESIT\Final year project\AsynARM\alu.v" Line 209: Syntax error near &quot;<arg fmt="%s" index="1">=</arg>&quot;.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="806" delta="new" >"E:\PESIT\Final year project\AsynARM\alu.v" Line 217: Syntax error near &quot;<arg fmt="%s" index="1">=</arg>&quot;.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="806" delta="new" >"E:\PESIT\Final year project\AsynARM\alu.v" Line 219: Syntax error near &quot;<arg fmt="%s" index="1">=</arg>&quot;.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="806" delta="new" >"E:\PESIT\Final year project\AsynARM\alu.v" Line 221: Syntax error near &quot;<arg fmt="%s" index="1">=</arg>&quot;.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="44" delta="old" >"E:\PESIT\Final year project\AsynARM\alu.v" Line 198: <arg fmt="%s" index="1">result</arg> is not a constant
+</msg>
+
+<msg type="error" file="HDLCompiler" num="1059" delta="new" >"E:\PESIT\Final year project\AsynARM\alu.v" Line 199: <arg fmt="%s" index="1">z</arg> is an unknown type
+</msg>
+
+<msg type="error" file="HDLCompiler" num="1059" delta="new" >"E:\PESIT\Final year project\AsynARM\alu.v" Line 201: <arg fmt="%s" index="1">z</arg> is an unknown type
+</msg>
+
+<msg type="error" file="HDLCompiler" num="44" delta="old" >"E:\PESIT\Final year project\AsynARM\alu.v" Line 206: <arg fmt="%s" index="1">result</arg> is not a constant
+</msg>
+
+<msg type="error" file="HDLCompiler" num="1059" delta="new" >"E:\PESIT\Final year project\AsynARM\alu.v" Line 207: <arg fmt="%s" index="1">n</arg> is an unknown type
+</msg>
+
+<msg type="error" file="HDLCompiler" num="1059" delta="new" >"E:\PESIT\Final year project\AsynARM\alu.v" Line 209: <arg fmt="%s" index="1">n</arg> is an unknown type
+</msg>
+
+<msg type="error" file="HDLCompiler" num="44" delta="old" >"E:\PESIT\Final year project\AsynARM\alu.v" Line 214: <arg fmt="%s" index="1">opcode</arg> is not a constant
+</msg>
+
+<msg type="error" file="HDLCompiler" num="44" delta="old" >"E:\PESIT\Final year project\AsynARM\alu.v" Line 216: <arg fmt="%s" index="1">operand1</arg> is not a constant
+</msg>
+
+<msg type="error" file="HDLCompiler" num="1059" delta="new" >"E:\PESIT\Final year project\AsynARM\alu.v" Line 217: <arg fmt="%s" index="1">v</arg> is an unknown type
+</msg>
+
+<msg type="error" file="HDLCompiler" num="69" delta="old" >"E:\PESIT\Final year project\AsynARM\alu.v" Line 218: &lt;<arg fmt="%s" index="1">operand</arg>&gt; is not declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="44" delta="old" >"E:\PESIT\Final year project\AsynARM\alu.v" Line 218: <arg fmt="%s" index="1">Operand2</arg> is not a constant
+</msg>
+
+<msg type="error" file="HDLCompiler" num="1059" delta="new" >"E:\PESIT\Final year project\AsynARM\alu.v" Line 219: <arg fmt="%s" index="1">v</arg> is an unknown type
+</msg>
+
+</messages>
+
