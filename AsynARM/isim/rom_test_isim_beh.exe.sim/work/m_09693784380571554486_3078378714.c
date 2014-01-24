@@ -21,7 +21,7 @@
 #include <malloc.h>
 #define alloca _alloca
 #endif
-static const char *ng0 = "/home/pravinkumar/Documents/Workspace/Xilinx/AsynARM/rom_test.v";
+static const char *ng0 = "/home/pravinkumar/Workspace/Xilinx/AsynARM/rom_test.v";
 static int ng1[] = {0, 0};
 static int ng2[] = {3, 0};
 

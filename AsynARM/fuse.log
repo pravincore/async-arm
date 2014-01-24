@@ -1,21 +1,21 @@
-Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "/home/pravinkumar/Documents/Workspace/Xilinx/AsynARM/fetch_test_isim_beh.exe" -prj "/home/pravinkumar/Documents/Workspace/Xilinx/AsynARM/fetch_test_beh.prj" "work.fetch_test" "work.glbl" 
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "/home/pravinkumar/Workspace/Xilinx/AsynARM/regbank_test_isim_beh.exe" -prj "/home/pravinkumar/Workspace/Xilinx/AsynARM/regbank_test_beh.prj" "work.regbank_test" "work.glbl" 
 ISim P.20131013 (signature 0xfbc00daa)
 Number of CPUs detected in this system: 4
 Turning on mult-threading, number of parallel sub-compilation jobs: 8 
 Determining compilation order of HDL files
-Analyzing Verilog file "/home/pravinkumar/Documents/Workspace/Xilinx/AsynARM/fetch.v" into library work
-Analyzing Verilog file "/home/pravinkumar/Documents/Workspace/Xilinx/AsynARM/fetch_test.v" into library work
+Analyzing Verilog file "/home/pravinkumar/Workspace/Xilinx/AsynARM/regbanknpc.v" into library work
+Analyzing Verilog file "/home/pravinkumar/Workspace/Xilinx/AsynARM/regbank_test.v" into library work
 Analyzing Verilog file "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
 Starting static elaboration
 Completed static elaboration
-Fuse Memory Usage: 94572 KB
+Fuse Memory Usage: 94576 KB
 Fuse CPU Usage: 1180 ms
-Compiling module fetch
-Compiling module fetch_test
+Compiling module regbank
+Compiling module regbank_test
 Compiling module glbl
 Time Resolution for simulation is 1ps.
 Compiled 3 Verilog Units
-Built simulation executable /home/pravinkumar/Documents/Workspace/Xilinx/AsynARM/fetch_test_isim_beh.exe
-Fuse Memory Usage: 654792 KB
-Fuse CPU Usage: 1200 ms
-GCC CPU Usage: 320 ms
+Built simulation executable /home/pravinkumar/Workspace/Xilinx/AsynARM/regbank_test_isim_beh.exe
+Fuse Memory Usage: 654752 KB
+Fuse CPU Usage: 1190 ms
+GCC CPU Usage: 300 ms

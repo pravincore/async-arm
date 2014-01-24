@@ -2,9 +2,9 @@ Command line:
    rom_test_isim_beh.exe
      -simmode  gui
      -simrunnum  0
-     -socket  38050
+     -socket  38101
 
-Fri Jan 17 08:15:09 2014
+Fri Jan 24 10:27:52 2014
 
 
  Elaboration Time: 0.02 sec
@@ -19,11 +19,11 @@ Fri Jan 17 08:15:09 2014
  Total Processes        : 13
  Total Traceable Variables  : 24
  Total Scalar Nets and Variables : 8388825
-Total Line Count : 37
+Total Line Count : 36
 
- Total Simulation Time: 0.06 sec
+ Total Simulation Time: 0.13 sec
 
  Current Memory Usage: 277.545 Meg
 
-Fri Jan 17 09:09:50 2014
+Fri Jan 24 10:29:55 2014
 

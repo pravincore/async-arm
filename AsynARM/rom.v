@@ -35,6 +35,7 @@ initial
 begin
 $readmemh("test.bin",mem);
 readyOut = 0;
+data = 0;
 //for(i =0; i<12; i =i+1) begin
 //$display("%h",mem[i]);
 //end
