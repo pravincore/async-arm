@@ -19,14 +19,17 @@
 //
 //////////////////////////////////////////////////////////////////////////////////
 module fetch(
+// pipeline 
 input triggerIn,
 input [7:0]dataIn,
 output reg triggerOut,
 output reg [31:0]dataOut,
 output reg readyOut,
 input readyIn,
+// program counter
 input [31:0]pcIn,
 output reg [31:0]pcOut,
+// rom address
 output reg [31:0]addrOut
     );
 	 
@@ -56,7 +59,7 @@ output reg [31:0]addrOut
 		wait (readyIn);
 		fork
 		data[7:0] = dataIn;
-		$display(data[7:0]);
+//		$display(data[7:0]);
 		pc = pc+1;
 		join
 		
@@ -65,7 +68,7 @@ output reg [31:0]addrOut
 		wait (readyIn);
 		fork
 		data[15:8] = dataIn;
-		$display(data[15:8]);
+//		$display(data[15:8]);
 		pc = pc+1;
 		join
 		
@@ -74,7 +77,7 @@ output reg [31:0]addrOut
 		wait (readyIn);
 		fork
 		data[23:16] = dataIn;
-		$display(data[23:16]);
+//		$display(data[23:16]);
 		pc = pc+1;
 		join
 		
@@ -83,11 +86,11 @@ output reg [31:0]addrOut
 		wait (readyIn);
 		fork
 		data[31:24] = dataIn;
-		$display(data[31:24]);
+//		$display(data[31:24]);
 		join
 		
 		dataOut = data;
-		$display("%h",data);
+//		$display("%h",data);
 		readyOut = 1;
 	 
 	 end

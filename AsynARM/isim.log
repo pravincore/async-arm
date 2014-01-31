@@ -28,7 +28,7 @@ Time resolution is 1 ps
 # run 1000 ns
 Simulator is doing circuit initialization process.
 Finished circuit initialization process.
-Stopped at time : 122 ns : File "/home/pravinkumar/Workspace/Xilinx/AsynARM/regbank_test.v" Line 72
+Stopped at time : 137 ns : File "/home/pravinkumar/Workspace/Xilinx/AsynARM/regbank_test.v" Line 77
 ISim P.20131013 (signature 0xfbc00daa)
 ----------------------------------------------------------------------
 INFO:Security:51 - The XILINXD_LICENSE_FILE environment variable is not set.
@@ -54,6 +54,5 @@ This is a Lite version of ISim.
 # run 1000 ns
 Simulator is doing circuit initialization process.
 Finished circuit initialization process.
-0000000c
-Stopped at time : 122 ns : File "/home/pravinkumar/Workspace/Xilinx/AsynARM/regbank_test.v" Line 73
+Stopped at time : 172 ns : File "/home/pravinkumar/Workspace/Xilinx/AsynARM/regbank_test.v" Line 77
 # exit 0

@@ -79,18 +79,19 @@
          <ClosedNode>/fetch_test |home|pravinkumar|Workspace|Xilinx|AsynARM|fetch_test.v</ClosedNode>
          <ClosedNode>/issuer_test |home|pravinkumar|Documents|Workspace|Xilinx|AsynARM|issuer_test.v</ClosedNode>
          <ClosedNode>/issuer_test |home|pravinkumar|Workspace|Xilinx|AsynARM|issuer_test.v</ClosedNode>
+         <ClosedNode>/regbank_test |home|pravinkumar|Workspace|Xilinx|AsynARM|regbank_test.v</ClosedNode>
          <ClosedNode>/rom_test C:|Xilinx|14.2|ISE_DS|AsynARM|rom_test.v</ClosedNode>
          <ClosedNode>/rom_test |home|pravinkumar|Documents|Workspace|Xilinx|AsynARM|rom_test.v</ClosedNode>
          <ClosedNode>/rom_test |home|pravinkumar|Workspace|Xilinx|AsynARM|rom_test.v</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem>rom_test (/home/pravinkumar/Workspace/Xilinx/AsynARM/rom_test.v)</SelectedItem>
+         <SelectedItem>xc6slx45t-3fgg484</SelectedItem>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000000ec000000020000000000000000000000000200000064ffffffff000000810000000300000002000000ec0000000100000003000000000000000100000003</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000108000000020000000000000000000000000200000064ffffffff000000810000000300000002000001080000000100000003000000000000000100000003</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
-      <CurrentItem>rom_test (/home/pravinkumar/Workspace/Xilinx/AsynARM/rom_test.v)</CurrentItem>
+      <CurrentItem>xc6slx45t-3fgg484</CurrentItem>
    </ItemView>
    <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
       <ClosedNodes>

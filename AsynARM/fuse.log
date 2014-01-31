@@ -8,14 +8,15 @@ Analyzing Verilog file "/home/pravinkumar/Workspace/Xilinx/AsynARM/regbank_test.
 Analyzing Verilog file "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
 Starting static elaboration
 Completed static elaboration
-Fuse Memory Usage: 94576 KB
-Fuse CPU Usage: 1180 ms
+Fuse Memory Usage: 94564 KB
+Fuse CPU Usage: 1200 ms
 Compiling module regbank
 Compiling module regbank_test
 Compiling module glbl
 Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
 Compiled 3 Verilog Units
 Built simulation executable /home/pravinkumar/Workspace/Xilinx/AsynARM/regbank_test_isim_beh.exe
 Fuse Memory Usage: 654752 KB
-Fuse CPU Usage: 1190 ms
-GCC CPU Usage: 300 ms
+Fuse CPU Usage: 1210 ms
+GCC CPU Usage: 220 ms
