@@ -3,9 +3,9 @@
 // Company: 
 // Engineer: 
 // 
-// Create Date:    14:23:22 01/31/2014 
+// Create Date:    14:20:59 01/31/2014 
 // Design Name: 
-// Module Name:    cpu 
+// Module Name:    writeback 
 // Project Name: 
 // Target Devices: 
 // Tool versions: 
@@ -18,7 +18,7 @@
 // Additional Comments: 
 //
 //////////////////////////////////////////////////////////////////////////////////
-module cpu(
+module writeback(
     );
 
 
