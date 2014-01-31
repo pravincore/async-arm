@@ -19,18 +19,18 @@
 //
 //////////////////////////////////////////////////////////////////////////////////
 module rom(
-input [31:0]addr,
-output reg [7:0]data,
-input triggerIn,
-output reg readyOut
+input [31:0]addr,			//
+output reg [7:0]data,	//		To
+input triggerIn,			//		Fetch
+output reg readyOut		//
     );
 
-reg [7:0]mem[1048576:0];
-integer i;
-
-/*/ Use this block only if we're simulating, its non sysnthesizable
+reg [7:0]mem[1048576:0]; // I have currently allocated 1MB of romspace for simulation
+//integer i;
+/*/ 
 4294967295: thats 4GB in bytes and too big to simulate
 */
+
 initial
 begin
 $readmemh("test.bin",mem);

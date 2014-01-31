@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2014-01-31T14:20:36</DateModified>
-  <ModuleName>decode</ModuleName>
+  <DateModified>2014-01-31T16:46:28</DateModified>
+  <ModuleName>cpu</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
-  <SavedFilePath>/home/pravinkumar/Workspace/Xilinx/AsynARM/iseconfig/cpu.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>/home/pravinkumar/Workspace/Xilinx/AsynARM/</ImplementationReportsDirectory>
+  <SavedFilePath>C:/Users/pravinkumar/Documents/GitHub/async-arm/AsynARM/iseconfig/cpu.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>C:/Users/pravinkumar/Documents/GitHub/async-arm/AsynARM\</ImplementationReportsDirectory>
   <DateInitialized>2014-01-31T14:20:36</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>

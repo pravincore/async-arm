@@ -1,0 +1,5 @@
+verilog work "rom.v"
+verilog work "fetch.v"
+verilog work "cpu.v"
+verilog work "cpu_test.v"
+verilog work "C:/Xilinx/14.2/ISE_DS/ISE//verilog/src/glbl.v"

@@ -1,22 +1,23 @@
-Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "/home/pravinkumar/Workspace/Xilinx/AsynARM/regbank_test_isim_beh.exe" -prj "/home/pravinkumar/Workspace/Xilinx/AsynARM/regbank_test_beh.prj" "work.regbank_test" "work.glbl" 
-ISim P.20131013 (signature 0xfbc00daa)
+Running: C:\Xilinx\14.2\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o C:/Users/pravinkumar/Documents/GitHub/async-arm/AsynARM/cpu_test_isim_beh.exe -prj C:/Users/pravinkumar/Documents/GitHub/async-arm/AsynARM/cpu_test_beh.prj work.cpu_test work.glbl 
+ISim P.28xd (signature 0xa0883be4)
 Number of CPUs detected in this system: 4
 Turning on mult-threading, number of parallel sub-compilation jobs: 8 
 Determining compilation order of HDL files
-Analyzing Verilog file "/home/pravinkumar/Workspace/Xilinx/AsynARM/regbanknpc.v" into library work
-Analyzing Verilog file "/home/pravinkumar/Workspace/Xilinx/AsynARM/regbank_test.v" into library work
-Analyzing Verilog file "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Analyzing Verilog file "C:/Users/pravinkumar/Documents/GitHub/async-arm/AsynARM/rom.v" into library work
+Analyzing Verilog file "C:/Users/pravinkumar/Documents/GitHub/async-arm/AsynARM/fetch.v" into library work
+Analyzing Verilog file "C:/Users/pravinkumar/Documents/GitHub/async-arm/AsynARM/cpu.v" into library work
+Analyzing Verilog file "C:/Users/pravinkumar/Documents/GitHub/async-arm/AsynARM/cpu_test.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.2/ISE_DS/ISE//verilog/src/glbl.v" into library work
 Starting static elaboration
 Completed static elaboration
-Fuse Memory Usage: 94564 KB
-Fuse CPU Usage: 1200 ms
-Compiling module regbank
-Compiling module regbank_test
+Compiling module rom
+Compiling module fetch
+Compiling module cpu
+Compiling module cpu_test
 Compiling module glbl
 Time Resolution for simulation is 1ps.
 Waiting for 1 sub-compilation(s) to finish...
-Compiled 3 Verilog Units
-Built simulation executable /home/pravinkumar/Workspace/Xilinx/AsynARM/regbank_test_isim_beh.exe
-Fuse Memory Usage: 654752 KB
-Fuse CPU Usage: 1210 ms
-GCC CPU Usage: 220 ms
+Compiled 5 Verilog Units
+Built simulation executable C:/Users/pravinkumar/Documents/GitHub/async-arm/AsynARM/cpu_test_isim_beh.exe
+Fuse Memory Usage: 27316 KB
+Fuse CPU Usage: 608 ms

@@ -19,18 +19,15 @@
 //
 //////////////////////////////////////////////////////////////////////////////////
 module fetch(
-// pipeline 
-input triggerIn,
-input [7:0]dataIn,
-output reg triggerOut,
-output reg [31:0]dataOut,
-output reg readyOut,
-input readyIn,
-// program counter
-input [31:0]pcIn,
-output reg [31:0]pcOut,
-// rom address
-output reg [31:0]addrOut
+input triggerIn,				// to decode
+output reg [31:0]dataOut,	// to decode
+output reg readyOut,			// to decode
+input [7:0]dataIn,			// to rom
+output reg triggerOut,		// to rom
+input readyIn,					// to rom
+output reg [31:0]addrOut,	// to rom
+input [31:0]pcIn,				// to pc
+output reg [31:0]pcOut		// to pc
     );
 	 
 	 reg [31:0]data;

@@ -23,24 +23,24 @@
 ////////////////////////////////////////////////////////////////////////////////
 
 module writeback_test;
-
-	// Outputs
-	wire ;
-
-	// Instantiate the Unit Under Test (UUT)
-	writeback uut (
-		.()
-	);
-
-	initial begin
-		// Initialize Inputs
-
-		// Wait 100 ns for global reset to finish
-		#100;
-        
-		// Add stimulus here
-
-	end
+//
+//	// Outputs
+//	wire ;
+//
+//	// Instantiate the Unit Under Test (UUT)
+//	writeback uut (
+//		.()
+//	);
+//
+//	initial begin
+//		// Initialize Inputs
+//
+//		// Wait 100 ns for global reset to finish
+//		#100;
+//        
+//		// Add stimulus here
+//
+//	end
       
 endmodule
 
