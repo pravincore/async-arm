@@ -15,7 +15,7 @@
 
   <!--                                                          -->
 
-  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+  <!-- Copyright (c) 1995-2012 Xilinx, Inc.  All rights reserved. -->
 
   <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
 
@@ -92,6 +92,7 @@
     <transform xil_pn:end_ts="1391156975" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="-7907212683910148484" xil_pn:start_ts="1391156975">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
     </transform>
     <transform xil_pn:end_ts="1391156975" xil_pn:in_ck="-2488947243962711004" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1391156975">
       <status xil_pn:value="SuccessfullyRun"/>
